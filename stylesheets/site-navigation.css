@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+ul#site-navigation {
+	margin: 0px;
+  padding: 0px;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+ul#site-navigation a {
+  color: white;
+  text-decoration: none;
+}
+
+ul#site-navigation a:hover {
+  text-decoration: underline;
+}
+
+ul#site-navigation li {
+	list-style-type: none;
+	padding-bottom: .5em;
+}

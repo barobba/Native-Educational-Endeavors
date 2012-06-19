@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+table.layout {
+	margin-top: 1.75em;
+	margin-left: .5em;
+	width: 900px;
+	border-collapse: collapse;
+}
+
+table.layout td {
+  padding: 0px;
+  vertical-align: top;
+}
+
+table.layout td.layout-top-left {
+	width: 204px;
+}
+
+table.layout td.layout-top-right {
+}
+
+table.layout td.layout-bottom-left {
+}
+
+table.layout td.layout-bottom-right {
+}
