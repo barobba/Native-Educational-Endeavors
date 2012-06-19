@@ -1,6 +1,12 @@
 <?php $page['title'] = 'Contact Us' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
+  <style>
+    .content {
+      height: 363px;
+    }
+  </style>
+
 	<h2 id="page-title">Contact Us</h2>
 	
 	<p>

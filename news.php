@@ -1,6 +1,12 @@
 <?php $page['title'] = 'News' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
+  <style>
+    .content {
+      height: 363px;
+    }
+  </style>
+
 	<h2 id="page-title">News & Events</h2>
 
   <table border="0" cellspacing="4" width="472">

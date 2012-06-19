@@ -1,6 +1,12 @@
 <?php $page['title'] = 'Programs' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
+  <style>
+    .content {
+      height: 363px;
+    }
+  </style>
+
 	<h2 id="page-title">Programs</h2>
 	
 	<p>PDF Documents:</p>

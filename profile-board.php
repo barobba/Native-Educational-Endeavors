@@ -1,9 +1,15 @@
-<?php $page['title'] = 'Profiles' ?>
+<?php $page['title'] = 'Board of Directors' ?>
 <?php require_once 'php-code/template-top.php' ?>
+
+  <style>
+    #board-listing td {
+      padding: 1em;
+    }
+  </style>
 
 	<h2 id="page-title">Board of Directors</h2>
 	
-<table width="515" height="1242" border="0" cellspacing="20">
+<table id="board-listing" width="515" height="1242" border="0" cellspacing="20">
     <tbody><tr>
       <td width="491" colspan="2">
 		<p align="center">

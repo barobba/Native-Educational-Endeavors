@@ -1,6 +1,12 @@
 <?php $page['title'] = 'Profiles' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
+  <style>
+    .content {
+      height: 363px;
+    }
+  </style>
+
 	<h2 id="page-title">Who We Are</h2>
 	
 	<ul>

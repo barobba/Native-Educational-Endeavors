@@ -1,4 +1,4 @@
-<?php $page['title'] = 'Lecturers' ?>
+<?php $page['title'] = 'Lecturers &amp; Consultants' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
   <style>
@@ -7,7 +7,7 @@
     }
   </style>
 
-	<h2 id="page-title">Lecturers & Consultants</h2>
+	<h2 id="page-title">Lecturers &amp; Consultants</h2>
 	
 	<div style="text-align: center">
 		<img src="pictures/_copy-profile-lecturers.png" />
