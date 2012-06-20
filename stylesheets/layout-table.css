@@ -1,9 +1,12 @@
 @CHARSET "ISO-8859-1";
 
 table.layout {
-	margin-top: 1.75em;
+	margin: auto;
+	/*
 	margin-left: .5em;
-	width: 900px;
+	*/
+  margin-top: 1.75em;
+	width: 1118px;
 	border-collapse: collapse;
 }
 
@@ -14,6 +17,7 @@ table.layout td {
 
 table.layout td.layout-top-left {
 	width: 204px;
+	position: relative;
 }
 
 table.layout td.layout-top-right {

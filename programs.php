@@ -1,4 +1,4 @@
-<?php $page['title'] = 'Programs' ?>
+<?php $page['title'] = 'Projects &amp; Programs' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
   <style>
@@ -7,7 +7,7 @@
     }
   </style>
 
-	<h2 id="page-title">Programs</h2>
+	<h2 id="page-title">Projects &amp; Programs</h2>
 	
 	<p>PDF Documents:</p>
 	

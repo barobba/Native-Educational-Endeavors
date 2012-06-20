@@ -7,11 +7,12 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<title><?php echo $page_title ?>Native Educational Endeavors</title>
+		<title><?php echo $page_title ?>Native Educational Endeavors, Inc.</title>
 		<link rel="stylesheet" type="text/css" href="stylesheets/page.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/border.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/layout-table.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/site-navigation.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
 	</head>
@@ -23,13 +24,13 @@
         <img id="site-logo" src="pictures/logo.png" />
 		  
 	    </td>
-	    <td class="layout-top-right">
+	    <td class="layout-top-right" colspan="2">
 
         <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
 
           <h1 id="site-title">
             <span class="first">N</span>ative <span class="first">E</span>ducational
-            <br /><span class="first">E</span>ndeavors
+            <br /><span class="first">E</span>ndeavors, Inc.
           </h1>        
           
         </div></div></div></div></div></div></div></div></div>

@@ -12,8 +12,12 @@ a {
 
 img#site-logo {
 	position: absolute;
+	top: -22px;
+	left: -27px;
+	/*
 	top: 8px;
-	left: 4px; 
+	left: 4px;
+	*/ 
 	z-index: 2;
 }
 
@@ -77,3 +81,4 @@ h2#page-title {
 	background-position: right;
 	background-repeat: no-repeat;
 }
+

@@ -22,7 +22,7 @@
     }
   </style>
 
-	<img id="splash" src="pictures/bear-butte.png" />
+	<img id="splash" src="pictures/splash/_splash.png" />
 	<div id="splash-message">
 	  Providing educational
 	  <br />opportunities for

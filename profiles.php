@@ -11,9 +11,8 @@
 	
 	<ul>
 	  <li><a href="profile-glover.php">Dr. John Henry Glover</a></li>
-	  <li><a href="profile-marcus.php">Urla Marcus</a></li>
 	  <li><a href="profile-board.php">Board of Directors</a></li>
-	  <li><a href="profile-lecturers.php">Lecturers & Consultants</a></li>
+	  <li><a href="profile-lecturers.php">Lecturers &amp; Consultants</a></li>
 	</ul>
 	
 <?php require_once 'php-code/template-bottom.php' ?>

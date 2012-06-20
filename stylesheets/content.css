@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+img.profile {
+  display: block;
+  margin: auto;
+}
+
+.star-box {
+	padding-bottom: 1em;
+}
