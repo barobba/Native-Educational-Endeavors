@@ -3,7 +3,6 @@ $(window).load(function(){
   var nav = $('.navigation');
   var content = $('.content');
   var sidebar = $('.sidebar');
-  
   var elements = [nav, content, sidebar];
 
   var longer = 0;
@@ -15,7 +14,7 @@ $(window).load(function(){
   
   for (i in elements) {
     elements[i].height(longer);
-    elements[i].css({'min-height': longer});
+    elements[i].css('height', longer);
   }
   
 });
