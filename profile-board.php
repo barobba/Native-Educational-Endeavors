@@ -2,10 +2,7 @@
 <?php require_once 'php-code/template-top.php' ?>
 
 	<h2 id="page-title">Board of Directors</h2>
-  <img class="profile" border="0" src="pictures/profiles/groupdirectors_crop.jpg" width="400" height="226">
 
-  <p>&nbsp;</p>
-  
   <img class="board-profile" src="pictures/profiles/barryvickrey1.png" />
   
   <p class="board-description">
@@ -14,16 +11,18 @@
   <br />Professor of Law &amp; Former Dean
   <br />University of South Dakota School of Law
   <br />Vermillion, South Dakota
-  <br />www.usd.edu/law
+  <br /><a href="http://www.usd.edu/law">www.usd.edu/law</a>
   </p>
+  
+  <img class="board-profile" src="pictures/profiles/TraceyFischer.png" />
   
   <p class="board-description">
   Tracey Fischer-Zephier, Vice President
   <br />(Tribal Affiliation: Enrolled Cheyenne River Sioux Tribe)
   <br />Partner, Frederick, Peebles &amp; Morgan, LLP
   <br />Rapid City, South Dakota
-  <br />http://www.ndnlaw.com/attorneypop/attorney.php?id=14
-  <br />www.ndnlaw.com
+  <br /><a href="http://www.ndnlaw.com/attorneypop/attorney.php?id=14">www.ndnlaw.com/attorneypop/attorney.php?id=14</a>
+  <br /><a href="http://www.ndnlaw.com">www.ndnlaw.com</a>
   </p>
   
   <p class="board-description">
@@ -32,7 +31,7 @@
   <br />Purchasing Manager
   <br />Black Hills State University
   <br />Spearfish, South Dakota
-  <br />www.bhsu.edu
+  <br /><a href="http://www.bhsu.edu">www.bhsu.edu</a>
   </p>
   
   <img class="board-profile" src="pictures/profiles/john-glover-sm.png" />
@@ -43,7 +42,7 @@
   <br />Professor, College of Liberal Arts
   <br />Black Hills State University
   <br />Spearfish, South Dakota
-  <br />www.bhsu.edu
+  <br /><a href="http://www.bhsu.edu">www.bhsu.edu</a>
   </p>
   
   <img class="board-profile" src="pictures/profiles/frankpommersheim1.png" />
@@ -52,8 +51,8 @@
   Frank Pommersheim
   <br />Professor, University of South Dakota School of Law
   <br />Vermillion, South Dakota
-  <br />http://www.usd.edu/law/pommersheim.cfm
-  <br />www.usd.edu/law
+  <br /><a href="http://www.usd.edu/law/pommersheim.cfm">http://www.usd.edu/law/pommersheim.cfm</a>
+  <br /><a href="http://www.usd.edu/law">www.usd.edu/law</a>
   </p>
   
   <img class="board-profile" src="pictures/profiles/jacedecory1.png" />
@@ -64,8 +63,10 @@
   <br />Assistant Professor of American Indian Studies
   <br />Black Hills State University
   <br />Spearfish, South Dakota
-  <br />www.bhsu.edu
+  <br /><a href="http://www.bhsu.edu">www.bhsu.edu</a>
   </p>
+  
+  <img class="board-profile" src="pictures/profiles/rainmarshall1.png" />
   
   <p class="board-description">
   Rain Archambeau-Marshall,
@@ -75,12 +76,14 @@
   <br />Arcata, California
   </p>
   
+  <img class="board-profile" src="pictures/profiles/Mato_Standing_High.jpg" />
+  
   <p class="board-description">
   Mato Standing High, esq.
   <br />(Tribal Affiliation: Enrolled Rosebud Sioux Tribe)
   <br />Attorney General, Sicangu Lakota Oyate, Rosebud Sioux Tribe
   <br />Mission, South Dakota
-  <br />www.rosebudsiouxtribe-nsn.gov
+  <br /><a href="http://www.rosebudsiouxtribe-nsn.gov">www.rosebudsiouxtribe-nsn.gov</a>
   </p>
   
   <img class="board-profile" src="pictures/profiles/danidaughtery.jpg" />
@@ -90,7 +93,7 @@
   <br />(Tribal Affiliations: Oglala Lakota/Oneida Enrolled Oglala Sioux Tribe)
   <br />Bureau of Indian Affairs
   <br />Aberdeen, South Dakota
-  <br />http://www.lastrealindians.com/dani-daugherty/dani/
+  <br /><a href="http://www.lastrealindians.com/dani-daugherty/dani/">www.lastrealindians.com/dani-daugherty/dani/</a>
   </p>
   
   	<h2 id="page-title">Emeritus Board Members</h2>
