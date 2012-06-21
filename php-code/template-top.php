@@ -37,7 +37,9 @@
 	  <table class="layout"><tr>
 		  <td class="layout-top-left">
 
-        <img id="site-logo" src="pictures/logo.png" />
+        <div id="site-logo-container">
+        	<img id="site-logo" src="pictures/logo.png" />
+        </div>
 		  
 	    </td>
 	    <td class="layout-top-right" colspan="2">
