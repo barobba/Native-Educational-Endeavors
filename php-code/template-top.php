@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/layout-table.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/site-navigation.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
     
     <script type="text/javascript">

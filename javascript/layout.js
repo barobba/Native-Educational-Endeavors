@@ -1,5 +1,4 @@
-/*
-$(document).ready(function(){
+$(window).load(function(){
   
   var nav = $('.navigation');
   var content = $('.content');
@@ -12,12 +11,11 @@ $(document).ready(function(){
     console.log(elements[i].height());
     longer = longer > elements[i].height() ? longer : elements[i].height();
   }
-  
   console.log(longer);
   
   for (i in elements) {
     elements[i].height(longer);
+    elements[i].css({'min-height': longer});
   }
   
 });
-*/

@@ -13,11 +13,11 @@
         </div>
 	    
 	    </td>
-	    <td>
+	    <td class="layout-bottom-right">
 	    
         <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
         
-          <div class="layout-bottom-right">
+          <div class="sidebar">
           
             <div class="star-box"><a href="star-little.php">
     		      <img src="pictures/profiles/tierra-little.jpg" />

@@ -8,3 +8,13 @@ img.profile {
 .star-box {
 	padding-bottom: 1em;
 }
+
+img.board-profile {
+	float: left;
+	clear: both;
+	margin-right: 1em;
+}
+	
+.board-description {
+	padding-bottom: 2em;
+}

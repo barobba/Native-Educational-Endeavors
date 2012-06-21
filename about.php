@@ -8,7 +8,11 @@
     }
   </style>
   
-  <p>
+  <h2 id="page-title">About NEE</h2>
+  
+  <img class="profile" src="pictures/profiles/web_john-glover.jpg" />
+  
+  <p style="text-align: center">
   <audio controls="controls">
     <source src="attachments/NEE_Mission.mp3" type="audio/mp3" />
 	</audio>

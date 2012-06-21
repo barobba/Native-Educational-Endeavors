@@ -9,14 +9,14 @@ ul#site-navigation {
 
 ul#site-navigation a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 ul#site-navigation a:hover {
-  text-decoration: underline;
 }
 
 ul#site-navigation li {
 	list-style-type: none;
 	padding-bottom: 1em;
+	line-height: 1em;
 }
