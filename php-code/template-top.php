@@ -15,6 +15,21 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
+    
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-32826120-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>    
+    
 	</head>
 	<body>
 	
@@ -49,7 +64,7 @@
 		    </div></div></div></div></div></div></div></div></div>
 	    
 	    </td>
-	    <td class="layout-bottom-right">
+	    <td class="layout-bottom-center">
 
         <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
         

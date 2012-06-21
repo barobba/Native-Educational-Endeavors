@@ -8,6 +8,12 @@
     }
   </style>
   
+  <p>
+  <audio controls="controls">
+    <source src="attachments/NEE_Mission.mp3" type="audio/mp3" />
+	</audio>
+	</p>
+  
   <p><span class="main-line">“The primary mission of Native Educational Endeavors (NEE) is to provide educational opportunities for American Indians, at any stage of life, and to create and support efforts that foster cross-cultural respect between native and non-native individuals, organizations and communities.”</span> NEE Executive Director, John Henry Glover, JD.</p>  
   
   <p>Native Educational Endeavors, Inc. is the brainchild of a group of concerned and motivated academics and attorneys actively involved in Indian Country and Native American affairs. Initially, NEE operated as a loose association between professionals having connections with the University of South Dakota School of Law on the eastern border of the State in Vermillion and Black Hills State University on the western edge in Spearfish.  In 2005, NEE incorporated under the laws of South Dakota and in 2007 received its 501(c)(3) status from the IRS as an educational non-profit entity.</p> 

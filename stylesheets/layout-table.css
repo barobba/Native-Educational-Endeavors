@@ -26,5 +26,9 @@ table.layout td.layout-top-right {
 table.layout td.layout-bottom-left {
 }
 
+table.layout td.layout-bottom-center {
+}
+
 table.layout td.layout-bottom-right {
+  width: 185px;
 }

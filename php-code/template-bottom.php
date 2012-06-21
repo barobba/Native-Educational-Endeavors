@@ -17,21 +17,21 @@
 	    
         <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
         
-          <div class="sidebar">
+          <div class="layout-bottom-right">
           
             <div class="star-box"><a href="star-little.php">
     		      <img src="pictures/profiles/tierra-little.jpg" />
-    		      Rising Star: Tierra Little
+    		      <br />Rising Star: Tierra Little
             </a></div>
   
             <div class="star-box"><a href="star-marcus.php">
     		      <img src="pictures/profiles/profile-marcus.png" />
-    		      Shining Star: Dr. Urla Marcus
+    		      <br />Shining Star: Dr. Urla Marcus
             </a></div>
   
             <div class="star-box"><a href="star-deloria.php">
     		      <img src="pictures/profiles/Vine_Deloria.jpg" width="185px" />
-    		      Setting star: Vine Deloria, Jr.
+    		      <br />Setting star: Vine Deloria, Jr.
             </a></div>
 
           </div>
