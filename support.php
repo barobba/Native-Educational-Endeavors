@@ -1,12 +1,6 @@
 <?php $page['title'] = 'Supporting Us' ?>
 <?php require_once 'php-code/template-top.php' ?>
 
-  <style>
-    .content {
-      height: 363px;
-    }
-  </style>
-
 	<h2 id="page-title">Supporting Us</h2>
 
   <p>NATIVE EDUCATIONAL ENDEAVORS, INC.</p>

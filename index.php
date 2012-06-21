@@ -4,7 +4,6 @@
   <style>
     .content {
       position: relative;
-      height: 500px;
     }
     #splash {
       position: absolute;
@@ -14,7 +13,9 @@
     }
     #splash-message {
       position: absolute;
-      width: 600px;
+      top: 0px;
+      left: 0px;
+      width: 100%;
       z-index: 2;
       text-align: center;
       font-size: 40px;

@@ -31,7 +31,7 @@
   
             <div class="star-box"><a href="star-deloria.php">
     		      <img src="pictures/profiles/Vine_Deloria.jpg" width="185px" />
-    		      <br />Setting star: Vine Deloria, Jr.
+    		      <br />Setting Star: Vine Deloria, Jr.
             </a></div>
 
           </div>

@@ -43,8 +43,8 @@ h2#page-title {
 }
 
 .content {
-  padding-left: 52px;
-	padding-right: 52px;
+  padding-left: 1em;
+	padding-right: 1em;
 }
 
 .content .cushion-top {

@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/layout-table.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/site-navigation.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/clearfix.css" />
     <script type="text/javascript" src="javascript/jquery.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
     

@@ -76,7 +76,7 @@
   <br />Arcata, California
   </p>
   
-  <img class="board-profile" src="pictures/profiles/Mato_Standing_High.jpg" />
+  <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
   
   <p class="board-description">
   Mato Standing High, esq.

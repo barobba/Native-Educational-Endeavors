@@ -3,13 +3,14 @@
 
   <h2 id="page-title">Speakers &amp; Consultants Bureau</h2>
   
-  (Note: <a href="profile-board.php">All NEE Board Members are also available in this capacity under our IRS status.</a>)
+  <p style="text-align: center"><a href="profile-board.php">NEE Board Members are also available 
+  <br />in this capacity under our IRS status.</a></p>
   
   <table width="100%"><tr><td width="50%">
   
     <p>
     Charles Abourezk
-    <br />Attorney & Professor
+    <br />Attorney &amp; Professor
     <br />Rapid City, South Dakota
     </p>
     
@@ -22,7 +23,7 @@
     
     <p>
     Michael Tate Barkley, Esq.
-    <br />Bain & Barkley Law Firm
+    <br />Bain &amp; Barkley Law Firm
     <br />Communications Ethics Instructor
     <br />University of Houston
     <br />Houston, Texas
@@ -50,7 +51,7 @@
 
     <p>
     Dr. Joseph Hiller
-    <br />College of Agricultural & Life Sciences
+    <br />College of Agricultural &amp; Life Sciences
     <br />University of Arizona
     <br />Tucson, Arizona
     </p>
