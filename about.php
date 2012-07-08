@@ -10,13 +10,15 @@
   
   <h2 id="page-title">About NEE</h2>
   
-  <img class="profile" src="pictures/profiles/web_john-glover.jpg" />
+  <div class="special-attention" style="text-align: center">
   
-  <p style="text-align: center">
-  <audio controls="controls">
-    <source src="attachments/NEE_Mission.mp3" type="audio/mp3" />
-	</audio>
-	</p>
+    <img class="profile" src="pictures/profiles/web_john-glover.jpg" />
+    
+      <audio controls="controls">
+        <source src="attachments/NEE_Mission.mp3" type="audio/mp3" />
+    	</audio>
+  	
+  </div>
   
   <p><span class="main-line">“The primary mission of Native Educational Endeavors is to provide educational opportunities for American Indians, at any stage of life, and to create and support efforts that foster cross-cultural respect between native and non-native individuals, organizations and communities.”</span> NEE Executive Director, John Henry Glover, JD.</p>  
   

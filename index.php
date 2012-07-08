@@ -2,15 +2,18 @@
 <?php require_once 'php-code/template-top.php' ?>
 
   <style>
+  
     .content {
       position: relative;
     }
+    
     #splash {
       position: absolute;
       top: 0px;
       left: 0px;
       z-index: 1;
     }
+    
     #splash-message {
       position: absolute;
       top: 0px;
@@ -21,6 +24,7 @@
       font-size: 40px;
       font-style: italic;
     }
+    
   </style>
 
 	<img id="splash" src="pictures/splash/_splash.png" />

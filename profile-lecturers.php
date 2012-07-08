@@ -56,6 +56,13 @@
     <br />Tucson, Arizona
     </p>
     
+    <p>
+    John C. Koch, PhD
+    <br />Sanford Health/USD
+    <br />Sioux Falls, South Dakota
+    </p>
+    
+    
   </td>
   <td width="50%">
 

@@ -7,8 +7,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 	<head>
+	
+	  <?php if (array_key_exists('og_image', $page)): ?>
+      <meta property="og:image" content="<?php echo $page['og_image'] ?>"/> 
+	  <?php endif; ?>
+	
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title><?php echo $page_title ?>Native Educational Endeavors, Inc.</title>
+		<link rel="stylesheet" type="text/css" href="javascript/jquery.ui/css/sunny/jquery-ui-1.8.21.custom.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/page.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/border.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/layout-table.css" />
@@ -16,7 +22,9 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/clearfix.css" />
     <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.ui/js/jquery-ui-1.8.21.custom.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
+    <script type="text/javascript" src="javascript/content.js"></script>
     
     <script type="text/javascript">
     
@@ -58,7 +66,7 @@
 
           <h1 id="site-title">
             <span class="first">N</span>ative <span class="first">E</span>ducational
-            <br /><span class="first">E</span>ndeavors, Inc.
+            <br /><span class="first">E</span>ndeavors, <span class="first">INC</span>.
           </h1>        
           
         </div></div></div></div></div></div></div></div></div>
@@ -68,7 +76,7 @@
 	    
 		    <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
 
-          <div class="navigation">
+          <div class="navigation" style="height: 843px">
             <div class="cushion-top"></div>
 		        <?php require_once 'php-code/navigation.php' ?>
             <div class="cushion-bottom"></div>

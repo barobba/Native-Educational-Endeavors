@@ -1,4 +1,6 @@
 <?php $page['title'] = 'Vine Deloria, Jr.' ?>
+<?php $page['og_image'] = 'pictures/profiles/Vine_Deloria.jpg' ?>
+
 <?php require_once 'php-code/template-top.php' ?>
 
 	<h2 id="page-title">Vine Deloria, Jr.</h2>

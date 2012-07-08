@@ -1,5 +1,14 @@
 @CHARSET "ISO-8859-1";
 
+.special-attention {
+	background-color: black;
+  padding: 1em;
+}
+
+.centered {
+	text-align: center;
+}
+
 img.profile {
   display: block;
   margin: auto;

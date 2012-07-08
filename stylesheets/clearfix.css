@@ -1,5 +1,19 @@
 @CHARSET "ISO-8859-1";
 
+.clearfix:before,
+.clearfix:after {
+  content: " ";    /* 1 */
+  display: table;  /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  *zoom: 1;  /* For IE 6/7 only */
+}
+
+/*
 .clearfix:after {
   content: ".";
   display: block;
@@ -20,3 +34,4 @@ html[xmlns] .clearfix {
 * html .clearfix {
   height: 1%;
 }
+*/

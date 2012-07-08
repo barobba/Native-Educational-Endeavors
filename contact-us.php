@@ -3,7 +3,7 @@
 
 	<h2 id="page-title">Contact Us</h2>
 
-  <p>	
+  <p style="font-size: 1.4em;" class="centered">
     Native Educational Endeavors, Inc.
     <br />PO Box 646, 2520 Hamster Hill Place
     <br />Spearfish, South Dakota 57783-0646

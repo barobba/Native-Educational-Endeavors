@@ -4,6 +4,7 @@
   <style>
     .profile-picture {
       float: left;
+      margin-top: 1em;
       margin-right: 1em;
       margin-bottom: 2em;
     }
@@ -12,7 +13,7 @@
     }
   </style>
 
-  <img class="profile-picture" src="pictures/profiles/profile-glover.png" />
+  <img class="profile-picture" src="pictures/profiles/profile-glover2.png" />
   
   <div>
   
@@ -31,7 +32,8 @@
     <p>
       (605) 580-0941 (direct cell)
       <br />e-mail address: <a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>
-      <br />blog: <a href="http://nativeed.wordpress.com/">nativeed.wordpress.com</a>
+      <br />blogs: <a href="http://nativeed.wordpress.com/">nativeed.wordpress.com</a>,
+      <br /><a href="http://nativeeducationalendeavors.blogspot.com/">nativeeducationalendeavors.blogspot.com/</a>
     </p>
     
   </div>

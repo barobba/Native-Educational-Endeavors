@@ -11,9 +11,10 @@
   
   <p>You can make a direct contribution using a debit or credit card into our account with Black Hills Area Community Foundation.</p>	
   
-  <p>Here is the link:</p>
+  <p class="centered"><a class="button" target="_blank" href="http://www.giveblackhills.org/27627">DONATE: Click Here To Get Started</a></p>
   
-  <p><a href="http://www.giveblackhills.org/27627">http://www.giveblackhills.org/27627</a></p>
+  <p>Here is the link:
+  <br /><a target="_blank" href="http://www.giveblackhills.org/27627">http://www.giveblackhills.org/27627</a></p>
 	
 	
 <?php require_once 'php-code/template-bottom.php' ?>

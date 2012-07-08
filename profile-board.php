@@ -29,7 +29,7 @@
   
   <p class="board-description">
   Lorraine Talks, Secretary/Treasurer
-  <br />(Tribal Affiliation: Enrolled Oglala Sioux Tribe)
+  <br />(Tribal Affiliation: Enrolled Standing Rock Sioux Tribe)
   <br />Purchasing Manager
   <br />Black Hills State University
   <br />Spearfish, South Dakota
