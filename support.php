@@ -9,11 +9,11 @@
   please contact us directly at <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a> 
   or by calling (605) 580-0941.</p>
   
-  <p>You can make a direct contribution using a debit or credit card into our account with Black Hills Area Community Foundation. From their donation form, please select "General Operating" and type in the words "Native Educational Endeavors, Inc." in the comment box.</p>	
+  <p>You can make a direct contribution using a debit or credit card into our account with Black Hills Area Community Foundation.</p>	
   
   <p>Here is the link:</p>
   
-  <p><a href="http://www.giveblackhills.org/index.cfm?fuseaction=Cart.New&Organization_ID=27369">http://www.giveblackhills.org/index.cfm?fuseaction=Cart.New&amp;Organization_ID=27369</a></p>
+  <p><a href="http://www.giveblackhills.org/27627">http://www.giveblackhills.org/27627</a></p>
 	
 	
 <?php require_once 'php-code/template-bottom.php' ?>

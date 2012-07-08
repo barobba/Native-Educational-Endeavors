@@ -5,6 +5,10 @@
 
   <img class="profile" src="pictures/profiles/profile-marcus.png" />
   
+  <p>&nbsp;</p>
+  
+	<div class="fb-like" data-href="<?php echo $page_url ?>" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+  
   <p>
     Dr. Urla Marcus, Director, BHSU Center for American Indian Studies
   </p>

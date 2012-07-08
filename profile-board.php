@@ -25,6 +25,8 @@
   <br /><a href="http://www.ndnlaw.com">www.ndnlaw.com</a>
   </p>
   
+  <img class="board-profile" src="pictures/profiles/NEE_Lorraine_Talks2.jpg" />
+  
   <p class="board-description">
   Lorraine Talks, Secretary/Treasurer
   <br />(Tribal Affiliation: Enrolled Oglala Sioux Tribe)
@@ -116,6 +118,10 @@
   <br />Black Hills State University
   <br />Spearfish, South Dakota
   </p>
+
+  <p>&nbsp;</p> <!-- SPACER -->
+  
+  <img class="board-profile" src="pictures/profiles/Judge_Pat_Lee_NEE.png" />
   
   <p class="board-description">
   Judge Pat Lee

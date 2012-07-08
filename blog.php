@@ -3,10 +3,12 @@
 
 	<h2 id="page-title">Blog</h2>
 	
-	<p style="text-align: center">
-	  Please join the conversation at our Blog:
-	  <br /><a href="http://nativeed.wordpress.com">nativeed.wordpress.com</a>
-	</p>
+  <p>Please join the conversation at one of our blogs:</p>
+
+  <ul>
+	  <li><a href="http://nativeeducationalendeavors.blogspot.com/">Diversity, Inclusion and Cross-Cultural Training</a></li>
+	  <li><a href="http://nativeed.wordpress.com">Education and Indians</a></li>
+  </ul>	  
 	
 	
 <?php require_once 'php-code/template-bottom.php' ?>

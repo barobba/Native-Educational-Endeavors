@@ -3,8 +3,12 @@
 
 	<h2 id="page-title">Tiarra Little</h2>
 	
+	
 	<img class="profile" src="pictures/profiles/tierra-little.jpg" />
 
+  <p>&nbsp;</p>
+	<div class="fb-like" data-href="<?php echo $page_url ?>" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+	
   <p>Tiarra Little recently received a very special accolade at the state level.</p>
   <p>The 2012 graduate was given an Inspirational Leadership Award at the South Dakota High School Athletic Association’s Elite 15 banquet last week. This is the first occasion that such an award has ever been given by the organization, and it may be the only time.</p>
   <p>Little was chosen for the honor in light of both her impressive application and her global experiences and leadership. She was recognized for the athletic legacy that she has left at Red Cloud, as well as for the leadership experience she has gained outside the community.</p>
