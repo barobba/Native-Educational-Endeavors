@@ -30,7 +30,7 @@
   
   <p>The second goal of our mission is to foster cross-cultural respect. We believe that necessary, productive and meaningful relationships between differing individuals and communities are best achieved through information, education and interaction. This process needs to begin with awareness and tolerance, but should continue further with greater effort towards the creation of respectful, meaningful, productive and lasting relationships. Our work with a high school diversity club in a predominately “white” community is a small scale example. A larger example would be our development and offerings of a college course in American Indian lands at three Tribal colleges, three State universities, a private school in South Dakota, and as a part of a graduate school experience at the University of Arizona. Our efforts have just begun and we welcome all such opportunities, whether big or small.</p> 
   
-  <p>If you have questions, comments or suggestions, contact us at <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a> or at our
+  <p>If you have questions, comments or suggestions, please contact us at <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a> or at our
     blog site: <a href="http://nativeed.wordpress.com">nativeed.wordpress.com</a>.</p> 
 
 <?php require_once 'php-code/template-bottom.php' ?>
