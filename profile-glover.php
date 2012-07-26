@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Dr. John Henry Glover' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
   <style>
     .profile-picture {
@@ -72,4 +72,4 @@
 
   </div>
 	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

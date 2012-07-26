@@ -1,7 +1,7 @@
 <?php $page['title'] = 'Vine Deloria, Jr.' ?>
 <?php $page['og_image'] = 'pictures/profiles/Vine_Deloria.jpg' ?>
 
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Vine Deloria, Jr.</h2>
 	
@@ -20,4 +20,4 @@
 	  <a target="_blank" href="http://en.wikipedia.org/wiki/Vine_Deloria,_Jr.">Wikipedia entry</a>
 	</p>	
   	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Home' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
   <style>
   
@@ -36,4 +36,4 @@
 	  <br />respect
 	</div>
 
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

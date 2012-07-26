@@ -17,27 +17,10 @@
 	    
         <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
         
-          <div class="sidebar" style="height: 843px">
-          
-            <div class="star-box"><a href="star-little.php">
-    		      <img src="pictures/profiles/tierra-little.jpg" />
-    		      <br />Rising Star: Tierra Little
-            </a></div>
-  
-            <div class="star-box"><a href="star-marcus.php">
-    		      <img src="pictures/profiles/profile-marcus.png" />
-    		      <br />Shining Star:
-    		      <br />Dr. Urla Marcus
-            </a></div>
-  
-            <div class="star-box"><a href="star-deloria.php">
-    		      <img src="pictures/profiles/Vine_Deloria.jpg" width="185px" />
-    		      <br />Setting Star: 
-    		      <br />Vine Deloria, Jr.
-            </a></div>
-
-          </div>
-		      
+					<div class="sidebar" style="height: 843px">
+			      <?php require_once '_sidebar-second.php' ?>
+			    </div>
+			    
         </div></div></div></div></div></div></div></div></div>
 	    
 	    </td></tr>

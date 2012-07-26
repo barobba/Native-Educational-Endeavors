@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Speakers &amp; Consultants Bureau' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
   <h2 id="page-title">Speakers &amp; Consultants Bureau</h2>
   
@@ -127,4 +127,4 @@
   <a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>.	
   </p>
   	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

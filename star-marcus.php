@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Dr. Urla Marcus' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Dr. Urla Marcus</h2>
 
@@ -48,4 +48,4 @@
   
   <p>This story was published in Native Legacy Magazine, (October-November-December) 2010.  <a href="attachments/native_legacy_marcus.pdf">Download PDF</a>
   
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

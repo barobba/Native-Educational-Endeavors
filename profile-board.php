@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Board of Directors' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Board of Directors</h2>
 
@@ -130,4 +130,4 @@
   <br />Rapid City, South Dakota
   </p>
 	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

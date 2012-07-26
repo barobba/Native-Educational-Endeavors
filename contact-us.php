@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Contact Us' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Contact Us</h2>
 
@@ -11,4 +11,4 @@
     <br />Email: <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a>
   </p>
 
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

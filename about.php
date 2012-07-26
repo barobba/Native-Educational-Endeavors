@@ -1,5 +1,5 @@
 <?php $page['title'] = 'About' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
   <style>
     .main-line {
@@ -33,4 +33,4 @@
   <p>If you have questions, comments or suggestions, contact us at <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a> or at our
     blog site: <a href="http://nativeed.wordpress.com">nativeed.wordpress.com</a>.</p> 
 
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

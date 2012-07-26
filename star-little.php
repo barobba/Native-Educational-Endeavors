@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Tiarra Little' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Tiarra Little</h2>
 	
@@ -21,4 +21,4 @@
 
   <p>Reprinted from: <a href="http://www.redcloudschool.org/page.aspx?pid=815">http://www.redcloudschool.org/page.aspx?pid=815</a></p>	
 	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>

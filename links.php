@@ -1,5 +1,5 @@
 <?php $page['title'] = 'Links' ?>
-<?php require_once 'php-code/template-top.php' ?>
+<?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Links</h2>
 	
@@ -12,4 +12,4 @@
 	  <li><a target="_blank" href="http://www.sdtribalrelations.com/">South Dakota Department of Tribal Relations</a></li>
 	</ul>
 	
-<?php require_once 'php-code/template-bottom.php' ?>
+<?php require_once 'template/page-bottom.php' ?>
