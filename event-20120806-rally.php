@@ -1,6 +1,7 @@
 <?php $page['title'] = 'Hospitality Lodge &amp; Awareness Week (August 2012)' ?>
 <?php require_once 'template/page-top.php' ?>
 
+
 <style>
   .qa-question {margin: 0px; margin-top: 1em; display: block; font-size: 1.2em; font-weight: bold;}
   .qa-answer {margin-top: 1em; margin-bottom: 1em; display: block;}
@@ -105,5 +106,6 @@
   </div>
 </dd>
 
+<p class="centered"><a class="button" target="_blank" href="http://www.giveblackhills.org/27627">Please Support Us: Click Here To Donate</a></p>
 
 <?php require_once 'template/page-bottom-wide.php' ?>
