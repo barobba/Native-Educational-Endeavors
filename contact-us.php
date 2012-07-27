@@ -11,4 +11,6 @@
     <br />Email: <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a>
   </p>
 
+	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
+
 <?php require_once 'template/page-bottom.php' ?>

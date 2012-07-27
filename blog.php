@@ -9,5 +9,7 @@
     <p><a href="http://nativeed.wordpress.com">Education and Indians</a></p>
 	
   </div>
+  
+	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 	
 <?php require_once 'template/page-bottom.php' ?>

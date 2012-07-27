@@ -31,8 +31,8 @@
     
     <p>
       (605) 580-0941 (direct cell)
-      <br />e-mail address: <a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>
-      <br />blogs: <a href="http://nativeed.wordpress.com/">nativeed.wordpress.com</a>,
+      <br />Email address: <a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>
+      <br />Blogs: <a href="http://nativeed.wordpress.com/">nativeed.wordpress.com</a>,
       <br /><a href="http://nativeeducationalendeavors.blogspot.com/">nativeeducationalendeavors.blogspot.com/</a>
     </p>
     

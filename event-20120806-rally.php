@@ -1,6 +1,6 @@
 <?php $page['title'] = 'Hospitality Lodge &amp; Awareness Week (August 2012)' ?>
 <?php require_once 'template/page-top.php' ?>
-
+<script type="Application/javascript" src="event-20120806-rally-thanks.js"></script>
 
 <style>
   .qa-question {margin: 0px; margin-top: 1em; display: block; font-size: 1.2em; font-weight: bold;}
@@ -12,6 +12,7 @@
   #tipi-and-cooler {display: block; float: left;}
   #live-link {font-weight: bold; font-size: 1.2em; text-align: center;}
   #sponsorship-message {text-align: center;}
+  .special-thanks {text-align: center;}
 </style>
 
 <h2 id="page-title">Hospitality Lodge &amp; Awareness Week</h2>
@@ -19,7 +20,7 @@
 
 <img id="tipi" src="pictures/general/tipi.png" />
 
-<p id="live-link"><a class="button" href="event-20120806-rally-live.php">Click here for live coverage of the event</a></p>
+<p id="live-link"><a class="button" href="event-20120806-rally-live.php">Click here for LIVE coverage of the event!</a></p>
 
 <div id="sponsorship-message">
   <p>Sponsored by:</>
@@ -107,5 +108,10 @@
 </dd>
 
 <p class="centered"><a class="button" target="_blank" href="http://www.giveblackhills.org/27627">Please Support Us: Click Here To Donate</a></p>
+
+<div class="special-thanks">
+  Special thanks to:
+  <div class="special-thanks-list"></div>
+</div>
 
 <?php require_once 'template/page-bottom-wide.php' ?>

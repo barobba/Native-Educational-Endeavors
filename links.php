@@ -11,5 +11,7 @@
 	  <li><a target="_blank" href="http://www.usd.edu/institute-of-american-indian-studies/">USD Institute of American Indian Studies</a></li>
 	  <li><a target="_blank" href="http://www.sdtribalrelations.com/">South Dakota Department of Tribal Relations</a></li>
 	</ul>
+
+	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 	
 <?php require_once 'template/page-bottom.php' ?>

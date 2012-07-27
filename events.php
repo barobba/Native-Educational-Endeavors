@@ -7,5 +7,7 @@
 	  <h2>August 2012</h2>
 	  <div><a href="event-20120806-rally.php">Hospitality Lodge &amp; Awareness Week - Rally Time in Spearfish August 2012</a></div>
 	</div>
+	
+	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 
 <?php require_once 'template/page-bottom.php' ?>

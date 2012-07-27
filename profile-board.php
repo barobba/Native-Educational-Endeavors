@@ -3,15 +3,14 @@
 
 	<h2 id="page-title">Board of Directors</h2>
 
-  <img class="board-profile" src="pictures/profiles/barryvickrey1.png" />
+  <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
   
   <p class="board-description">
-  Barry Vickrey, Outgoing President (Term ended June 2012)
-  <br />NEE Emeritus Board Member
-  <br />Professor of Law &amp; Former Dean
-  <br />University of South Dakota School of Law
-  <br />Vermillion, South Dakota
-  <br /><a href="http://www.usd.edu/law">www.usd.edu/law</a>
+  Mato Standing High, esq., President 
+  <br />(Tribal Affiliation: Enrolled Rosebud Sioux Tribe)
+  <br />Attorney General, Sicangu Lakota Oyate, Rosebud Sioux Tribe
+  <br />Mission, South Dakota
+  <br /><a href="http://www.rosebudsiouxtribe-nsn.gov">www.rosebudsiouxtribe-nsn.gov</a>
   </p>
   
   <img class="board-profile" src="pictures/profiles/TraceyFischer.png" />
@@ -78,16 +77,6 @@
   <br />Arcata, California
   </p>
   
-  <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
-  
-  <p class="board-description">
-  Mato Standing High, esq.
-  <br />(Tribal Affiliation: Enrolled Rosebud Sioux Tribe)
-  <br />Attorney General, Sicangu Lakota Oyate, Rosebud Sioux Tribe
-  <br />Mission, South Dakota
-  <br /><a href="http://www.rosebudsiouxtribe-nsn.gov">www.rosebudsiouxtribe-nsn.gov</a>
-  </p>
-  
   <img class="board-profile" src="pictures/profiles/danidaughtery.jpg" />
   
   <p class="board-description">
@@ -97,9 +86,18 @@
   <br />Aberdeen, South Dakota
   <br /><a href="http://www.lastrealindians.com/dani-daugherty/dani/">www.lastrealindians.com/dani-daugherty/dani/</a>
   </p>
+
+  <img class="board-profile" src="pictures/profiles/_you.png" />
   
-  	<h2 id="page-title">Emeritus Board Members</h2>
+  <p class="board-description">
+    Vacant seat
+    <br />Please contact Dr. John Glover at (605) 580-0941 to see about joining our Board of Directors.
+  </p>
   
+  <div class="clearfix"></div>
+  
+	<h2 id="page-title">Emeritus Board Members</h2>
+
   <img class="board-profile" src="pictures/profiles/johngritts1.png" />
   
   <p class="board-description">
@@ -129,5 +127,17 @@
   <br />Oglala Lakota College
   <br />Rapid City, South Dakota
   </p>
-	
+
+  <p>&nbsp;</p> <!-- SPACER -->
+  
+  <img class="board-profile" src="pictures/profiles/barryvickrey1.png" />
+  
+  <p class="board-description">
+  Barry Vickrey
+  <br />Professor of Law &amp; Former Dean
+  <br />University of South Dakota School of Law
+  <br />Vermillion, South Dakota
+  <br /><a href="http://www.usd.edu/law">www.usd.edu/law</a>
+  </p>
+  	
 <?php require_once 'template/page-bottom.php' ?>
