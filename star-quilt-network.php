@@ -4,15 +4,15 @@
 	<h2 id="page-title">Star Quilt Network</h2>
 	
 	<div class="centered">
+	  <img src="pictures/star-quilt-designs/7-140.png" />
+	  <img src="pictures/star-quilt-designs/8-140.png" />
+	  <img src="pictures/star-quilt-designs/9-140.png" />
 	  <img src="pictures/star-quilt-designs/1-140.png" />
 	  <img src="pictures/star-quilt-designs/2-140.png" />
 	  <img src="pictures/star-quilt-designs/3-140.png" />
 	  <img src="pictures/star-quilt-designs/4-140.png" />
 	  <img src="pictures/star-quilt-designs/5-140.png" />
 	  <img src="pictures/star-quilt-designs/6-140.png" />
-	  <img src="pictures/star-quilt-designs/7-140.png" />
-	  <img src="pictures/star-quilt-designs/8-140.png" />
-	  <img src="pictures/star-quilt-designs/9-140.png" />
 	</div>
 
   <h3 class="subheading">Related links</h3>
