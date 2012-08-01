@@ -68,7 +68,7 @@
 	    
 		    <div class="border-top"><div class="border-bottom"><div class="border-top-left"><div class="border-top-right"><div class="border-bottom-left"><div class="border-bottom-right"><div class="border-left"><div class="border-right"><div class="border-center">
 
-          <div class="navigation" style="height: 843px">
+          <div class="navigation">
             <div class="cushion-top"></div>
 		        <?php require_once '_navigation.php' ?>
             <div class="cushion-bottom"></div>

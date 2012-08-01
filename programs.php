@@ -14,6 +14,10 @@
 	<h3>Services</h3>
 	
 	<ul>
+  	<li>Web development</li>
+  	<ul>
+  	  <li><a target="_blank" href="web-services.php">More information about our Web development services</a></li>
+  	</ul>
   	<li>Fundraising</li>
   	<ul>
   	  <li><a target="_blank" href="attachments/Grants_Seminar_Spearfish_April_12_2012.pdf">A Grant "WORKING" Seminar</a></li>
@@ -21,10 +25,6 @@
   	<li>Diversity Training</li>
   	<ul>
   	  <li><a target="_blank" href="attachments/diversity-training.png">Diversity &amp; Cross-Cultural Training Program</a></li>
-  	</ul>
-  	<li>Web development</li>
-  	<ul>
-  	  <li><a target="_blank" href="web-services.php">More information about our Web development services</a></li>
   	</ul>
 	</ul>
 
@@ -57,12 +57,7 @@
 	
 	<h3>Special Topics</h3>
 	<ul>
-	  <li>Star quilts</li>
-	  <ul>
-	    <li>Star Quilts: A History of Cross Cultural Appreciation (coming soon)</li>
-	    <li><a target="_blank" href="http://star-quilts.biagio.arobba.com">Star Quilt Wiki - Design your own star quilt</a></li>
-	    <li>Design competition (coming soon)</li>
-	  </ul>
+	  <li><a href="star-quilt-network.php">Star Quilt Network</a></li>
 	</ul>
 	
 <?php require_once 'template/page-bottom.php' ?>

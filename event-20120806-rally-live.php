@@ -24,7 +24,8 @@
 <div id="fb-charitable-gallery">
   <!-- Facebook photo album goes here -->
 </div>
-<p>Get your photo here by providing a charitable donation to Native Educational Endeavors, during Sturgis Bike Rally Week at the Hopspitality Lodge Event.</p>
+<p>Get your photo here by providing a charitable donation 
+   to Native Educational Endeavors or Northern Hills Court Appointed Special Advocates, during Sturgis Bike Rally Week at the Hospitality Lodge Event.</p>
 
 <p class="centered"><a class="button" target="_blank" href="http://www.giveblackhills.org/27627">Please Support Us: Click Here To Donate</a></p>
 

@@ -2,20 +2,11 @@
 <?php require_once 'template/page-top.php' ?>
 
   <style>
-    .profile-picture {
-      float: left;
-      margin-top: 1em;
-      margin-right: 1em;
-      margin-bottom: 2em;
-    }
-    .biography {
-      clear: both;
-    }
   </style>
 
   <div>
   
-    <p>&nbsp;</p>
+    <img class="profile-picture" src="pictures/profiles/profile-arobba.jpg" />
   
     <p>
       Biagio Arobba

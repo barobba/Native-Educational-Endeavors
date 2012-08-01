@@ -1,1 +1,20 @@
 @CHARSET "ISO-8859-1";
+
+.special-attention {background-color: black; padding: 1em;}
+
+/* Profiles */
+.profile-picture {float: left; margin-top: .25em; margin-right: 1em; margin-bottom: 2em;}
+.biography {clear: both;}
+img.profile {display: block; margin: auto;}
+
+/* Board */
+img.board-profile {float: left; clear: both; margin-right: 1em;}
+.board-description {padding-bottom: 2em; margin-left: 111px;}
+
+.star-box {padding-bottom: 1em;}
+
+/* .footer-message {margin-left: 2em; margin-right: 2em; padding-top: 1em; padding-right: 80px; padding-bottom: 2em; text-align: center; font-family: sans-serif; font-size: .8em; background-image: url('../pictures/mortar-board-and-feather.png'); background-position: right; background-repeat: no-repeat;} */
+.footer-message {padding-top: 1em;}
+img.footer-star {width: 100px; padding-top: 1em; padding-bottom: 2em;}
+img#footer-star-left {float: left; padding-right: 1em;}
+img#footer-star-right {float: right; padding-left: 1em;}
