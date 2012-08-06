@@ -5,7 +5,48 @@ address {margin-top: 1em; margin-bottom: 1em;}
 .qa-answer em {font-style: normal; font-weight: bold;}
 .special-thanks {text-align: center;}
 .fb-album {font-family: sans-serif; font-size: .9em;}
-.fb-album img {margin: .25em; border: 2px solid white;}
+
+.fb-album a.fb-picture-link {
+	display: block; 
+	float: left; 
+	width: 130px;
+	height: 130px;
+	margin: .25em; 
+	border: 2px solid #666666;
+  border-radius: 8px;
+}
+
+.fb-album a.fb-picture-link:hover {
+  border-color: white;
+}
+
+.fb-album a.fb-picture-link:hover .wraptocenter {
+	background-color: black;
+}
+
+.fb-album .wraptocenter {
+	width: 130px;
+	height: 130px;
+	background-color: #111111;
+	border-radius: 8px;
+}
+
+/*
+.fb-album span.fb-picture-spacer-horizontal {
+	display: inline-block; 
+	text-align: center; 
+	width: 130px;
+  height: 130px;
+	background-color: black;
+}
+.fb-album span.fb-picture-spacer-vertical {
+  line-height: 130px; 
+}
+*/
+
+.fb-album img {
+	border: none;
+}
 .fb-album .caption {text-align: center; font-size: 1.1em; padding-top: 1em; padding-bottom: .5em;}
 
 #cooler {width: 150px; float: left; padding-top: 1em; padding-right: 2em; padding-bottom: 1em;}

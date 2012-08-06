@@ -25,7 +25,7 @@
 
 <div id="186226148176664" class="fb-album clearfix" caption="Getting ready for the hospitality lodge.">
   <script type="text/template-x" id="fb-hospitality-template">
-    <a id="fb-link"><img id="picture" class="fb-hospitality-album-photo" /></a>
+    <a id="fb-link" class="fb-picture-link"><span class="wraptocenter"><span></span><img id="picture" class="fb-hospitality-album-photo" /></span></a>
   </script>
 </div>
 

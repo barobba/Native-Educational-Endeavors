@@ -21,6 +21,16 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/site-navigation.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/clearfix.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/wraptocenter.css" />
+    <!--[if lt IE 8]>
+    	<style>
+    		.wraptocenter span {
+    		    display: inline-block;
+    		    height: 100%;
+    		}
+    	</style>
+    <![endif]-->
+    
     <script type="text/javascript" src="javascript/jquery.min.js"></script>
     <script type="text/javascript" src="javascript/jquery.ba-resize.min.js"></script>
     <script type="text/javascript" src="javascript/jquery.ui/js/jquery-ui-1.8.21.custom.min.js"></script>
