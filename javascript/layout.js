@@ -13,8 +13,6 @@ $(window).load(function(){
 
 function resizeColumns() {
   
-  console.log('called');
-
   // Elements to make the same height
   var elementNames = ['.navigation', '.content', '.sidebar'];
 
