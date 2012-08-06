@@ -1,6 +1,7 @@
 <?php $page['title'] = 'Hospitality Lodge &amp; Awareness Week (August 2012)' ?>
 <?php require_once 'template/page-top.php' ?>
 <script type="Application/javascript" src="event-20120806-rally-thanks.js"></script>
+<script type="Application/javascript" src="event-20120806-rally-album.js"></script>
 <link rel="stylesheet" type="text/css" href="event-20120806-rally.css" />
 
 <h2 id="page-title">Hospitality Lodge &amp; Awareness Week</h2>
@@ -22,7 +23,11 @@
   The Lakota Tipi will be erected on the north side of NHCASA’s offices.
 </p>
 
-<img id="tipi" src="pictures/general/tipi.png" />
+<div id="186226148176664" class="fb-album clearfix" caption="Getting ready for the hospitality lodge.">
+  <script type="text/template-x" id="fb-hospitality-template">
+    <a id="fb-link"><img id="picture" class="fb-hospitality-album-photo" /></a>
+  </script>
+</div>
 
 <dt class="qa-question">Who:</dt>
 <dd class="qa-answer">
@@ -49,7 +54,7 @@
   <p>Beginning Saturday August 4, 2012 throughout Rally Week</p>
 </dd>
 
-
+<!-- 
 <dt class="qa-question">Where:</dt>
 <dd class="qa-answer">
   <p>Next to CASA Offices in Spearfish</p>
@@ -62,6 +67,7 @@
   <br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Casa+(Court+Appointed+Special+Advocate),+1940+North+Avenue+%236,+Spearfish,+SD&amp;aq=0&amp;oq=Court+App&amp;sll=37.0625,-95.677068&amp;sspn=46.14027,107.138672&amp;t=h&amp;ie=UTF8&amp;hq=Casa+(Court+Appointed+Special+Advocate),+1940+North+Avenue+%236,+Spearfish,+SD&amp;hnear=&amp;radius=15000&amp;ll=44.506239,-103.858523&amp;spn=0.005723,0.009742&amp;z=16&amp;iwloc=A" style="text-align:left">View Larger Map</a></small>
   <p>We are at the North end of Main Street across from the Spearfish Recreation Center, and across from the post office.</p>
 </dd>
+ -->
 
 
 <dt class="qa-question">Why:</dt>

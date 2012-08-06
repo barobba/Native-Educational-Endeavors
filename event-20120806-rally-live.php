@@ -29,10 +29,10 @@
   <script type="text/template-x" id="fb-charitable-template">
     <div id="picture-box">
       <div id="picture-section">
-        <a id="fb-link"><img ID="picture" /></a>
+        <a target="_blank" id="fb-link"><img ID="picture" /></a>
       </div>
       <div id="caption-section">
-        <a id="fb-link">FACEBOOK PHOTO: </a><a id="fb-link" class="caption">CAPTION</a>
+        <a target="_blank" id="fb-link">FACEBOOK PHOTO: </a><a target="_blank" id="fb-link" class="caption">CAPTION</a>
       </div>
     </div>
   </script>

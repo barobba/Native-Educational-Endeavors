@@ -9,21 +9,9 @@ window.fbAsyncInit = function() {
     xfbml      : true  // parse XFBML
   });
 
-  // List the albums
-  FB.api('NativeEducationalEndeavorsInc/albums', function(response){
-    //console.log('Albums');
-    for (albumIdx in response.data) {
-      var album = response.data[albumIdx];
-      //console.log(album.name + ', ' + album.id);
-    }
-  });
-
-  // List information about an album
+  // Display the album
   var albumID = '181830951949517';
   FB.api(albumID + '/photos', function(response){
-    // Display an album's photos
-    //console.log('\nThe chosen album');
-    //console.log(response);
     for (photoIdx in response.data.reverse()) {
       var photo = response.data[photoIdx];
       var picture = $($('#fb-charitable-template').html());
