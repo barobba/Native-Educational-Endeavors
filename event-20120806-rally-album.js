@@ -25,7 +25,7 @@ window.fbAsyncInit = function() {
         $(albumSelector).append(picture);
       }
       FB.api(albumID, function(album){
-        $(albumSelector).append('<div class="caption"><a target="_blank" href="'+album.link+'">Facebook Album: '+album.name+'</a></div>');
+        $(albumSelector).prepend('<div class="caption"><a target="_blank" href="'+album.link+'">Facebook Album: '+album.name+'</a></div>');
       });
     });
     
