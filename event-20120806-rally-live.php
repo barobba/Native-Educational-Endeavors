@@ -15,7 +15,7 @@
 
 <!-- Live video feed -->
 <div id="ustream">
-  <iframe width="480" height="296" src="http://www.ustream.tv/embed/11642647" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
+  <iframe width="608" height="368" src="http://www.ustream.tv/embed/11642647" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
   <br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; display: block; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video streaming by Ustream</a>
 </div>
 
