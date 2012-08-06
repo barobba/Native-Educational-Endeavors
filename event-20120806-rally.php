@@ -1,56 +1,28 @@
 <?php $page['title'] = 'Hospitality Lodge &amp; Awareness Week (August 2012)' ?>
 <?php require_once 'template/page-top.php' ?>
 <script type="Application/javascript" src="event-20120806-rally-thanks.js"></script>
-
-<style>
-  .qa-question {margin: 0px; margin-top: 1em; display: block; font-size: 1.2em; font-weight: bold;}
-  .qa-answer {margin-top: 1em; margin-bottom: 1em; display: block;}
-  .qa-answer em {font-style: normal; font-weight: bold;}
-  address {margin-top: 1em; margin-bottom: 1em;}
-  #cooler {width: 150px; float: left; padding-top: 1em; padding-right: 2em; padding-bottom: 1em;}
-  #tipi {display: block; margin: 0px auto;}
-  #tipi-and-cooler {display: block; float: left;}
-  #live-link {font-weight: bold; font-size: 1.2em; text-align: center;}
-  #sponsorship-message {text-align: center;}
-  .special-thanks {text-align: center;}
-</style>
+<link rel="stylesheet" type="text/css" href="event-20120806-rally.css" />
 
 <h2 id="page-title">Hospitality Lodge &amp; Awareness Week</h2>
-<h3 class="subheading">During the Sturgis Bike Rally, August 2012 (Spearfish, SD)</h3>
-
-<img id="tipi" src="pictures/general/tipi.png" />
+<h3 class="subheading">Spearfish, SD - During Rally Week, August 2012</h3>
 
 <p id="live-link"><a class="button" href="event-20120806-rally-live.php">Click here for LIVE coverage of the event!</a></p>
-
-<div id="sponsorship-message">
-  <p>Sponsored by:</>
-  <div id="sponsors">
-    <img src="pictures/logo-small.png" />
-    <img src="pictures/nhcasa-logo-small.png" />
-  </div>
-</div>
-
 
 <p>
   During the Sturgis Bike Rally, Native Educational Endeavors, INC is teaming up 
   with Northern Hills CASA to host a Hospitality Lodge on North Main Street 
   in Spearfish, South Dakota.
-</p>
 
-<p>  
   We will provide free cold water (bottle and tap) to visitors,
   and answer general tourist questions and for those interested.
-</p>
 
-<p>  
   This will be an opportunity for visitors to learn about NEE and NHCASA.
   We will be prepared to accept donations though they are not required.
-</p>
 
-<p>
   The Lakota Tipi will be erected on the north side of NHCASA’s offices.
 </p>
 
+<img id="tipi" src="pictures/general/tipi.png" />
 
 <dt class="qa-question">Who:</dt>
 <dd class="qa-answer">
@@ -112,6 +84,14 @@
 <div class="special-thanks">
   Special thanks to:
   <div class="special-thanks-list"></div>
+</div>
+
+<div id="sponsorship-message">
+  <p>Sponsored by:</p>
+  <div id="sponsors">
+    <img src="pictures/logo-small.png" />
+    <img src="pictures/nhcasa-logo-small.png" />
+  </div>
 </div>
 
 <?php require_once 'template/page-bottom-wide.php' ?>
