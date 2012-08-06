@@ -1,5 +1,19 @@
 
 $(window).load(function(){
+  
+  var elementNames = ['.navigation', '.content', '.sidebar'];
+  
+  
+  for (i in elementNames) {
+    $(elementNames[i]).resize(resizeColumns);
+  }
+  resizeColumns();
+  
+});
+
+function resizeColumns() {
+  
+  console.log('called');
 
   // Elements to make the same height
   var elementNames = ['.navigation', '.content', '.sidebar'];
@@ -14,9 +28,10 @@ $(window).load(function(){
       // Already longer
     }
   }
-  
+
+  // Make columns the same height
   for (i in elementNames) {
-    $(elementNames[i]).height(longer);
+    $(elementNames[i]).css('min-height', longer);
   }
   
-});
+}

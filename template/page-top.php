@@ -22,6 +22,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/content.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/clearfix.css" />
     <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.ba-resize.min.js"></script>
     <script type="text/javascript" src="javascript/jquery.ui/js/jquery-ui-1.8.21.custom.min.js"></script>
     <script type="text/javascript" src="javascript/layout.js"></script>
     <script type="text/javascript" src="javascript/content.js"></script>
