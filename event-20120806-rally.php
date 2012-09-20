@@ -8,6 +8,7 @@
 <h3 class="subheading">Spearfish, SD - During Rally Week, August 2012</h3>
 
 <p id="live-link"><a class="button" href="event-20120806-rally-live.php">Click here for LIVE coverage of the event!</a></p>
+<p id="gallery-link"><a class="button" href="event-20120806-rally-photos.php">Click here to see the photo gallery.</a></p>
 
 <p>
   During the Sturgis Bike Rally, Native Educational Endeavors, INC is teaming up 

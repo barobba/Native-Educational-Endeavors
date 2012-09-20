@@ -1,6 +1,3 @@
-<script type="text/javascript">
-  window.location = "event-20120806-rally-live.php";
-</script>
 <?php $page['title'] = 'Home' ?>
 <?php require_once 'template/page-top.php' ?>
 

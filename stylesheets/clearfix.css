@@ -1,37 +1,6 @@
 @CHARSET "ISO-8859-1";
 
 .clearfix:before,
-.clearfix:after {
-  content: " ";    /* 1 */
-  display: table;  /* 2 */
-}
-
-.clearfix:after {
-  clear: both;
-}
-.clearfix {
-  *zoom: 1;  /* For IE 6/7 only */
-}
-
-/*
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0;
-}
- 
-.clearfix {
-  display: inline-block;
-}
- 
-html[xmlns] .clearfix {
-  display: block;
-}
- 
-* html .clearfix {
-  height: 1%;
-}
-*/
+.clearfix:after {content: " "; display: table;}
+.clearfix:after {clear: both;}
+.clearfix {*zoom: 1;}

@@ -8,14 +8,12 @@ window.fbAsyncInit = function() {
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true  // parse XFBML
   });
-  
-  
+
   // Display the album
-  $(".fb-album").each(function(index, element){
-    
+  $('.fb-album .graceful').empty();
+  $('.fb-album').each(function(index, element){
     var albumID = $(element).attr('id');
     var albumSelector = '#'+albumID+'.fb-album';
-    
     FB.api(albumID + '/photos', function(response){
       for (photoIdx in response.data) {
         var photo = response.data[photoIdx];
@@ -28,8 +26,6 @@ window.fbAsyncInit = function() {
         $(albumSelector).prepend('<div class="caption"><a target="_blank" href="'+album.link+'">Facebook Album: '+album.name+'</a></div>');
       });
     });
-    
-
   });
 
   
