@@ -19,7 +19,7 @@ window.fbAsyncInit = function() {
         var photo = response.data[photoIdx];
         var picture = $($('#fb-hospitality-template').html());
         $(picture).attr('href', photo.link);
-        $(picture).find('img#picture').attr('src', photo.images[6].source);
+        $(picture).find('img#picture').attr('src', photo.images[7].source);
         $(albumSelector).append(picture);
       }
       FB.api(albumID, function(album){
