@@ -1,5 +1,10 @@
-<?php $page['title'] = 'Vine Deloria, Jr.' ?>
-<?php $page['og_image'] = 'pictures/profiles/Vine_Deloria.jpg' ?>
+<?php 
+  $page['title'] = 'Vine Deloria, Jr.';
+  
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/profiles/Vine_Deloria.jpg';
+
+?>
 
 <?php require_once 'template/page-top.php' ?>
 
@@ -9,7 +14,7 @@
 
   <p>&nbsp;</p>
   
-	<div class="fb-like" data-href="<?php echo $page_url ?>" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 	
 	<p>
   	Vine Victor Deloria, Jr. (March 26, 1933 – November 13, 2005) was an American Indian author, theologian, historian, and activist. He was widely known for his book Custer Died for Your Sins: An Indian Manifesto (1969), which helped generate national attention to Native American issues in the same year as the Alcatraz-Red Power Movement. From 1964-1967, he had served as executive director of the National Congress of American Indians, increasing tribal membership from 19 to 156. Beginning in 1977, he was a board member of the National Museum of the American Indian, which now has buildings in both New York City and Washington, DC.

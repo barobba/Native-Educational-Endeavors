@@ -1,4 +1,11 @@
-<?php $page['title'] = 'Shining, Rising, and Setting Stars' ?>
+<?php 
+
+  $page['title'] = 'Shining, Rising, and Setting Stars';
+  
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/star-quilt-designs/2-140.png';
+
+?>
 <?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Star Quilt Network</h2>
@@ -13,6 +20,10 @@
 	  <img src="pictures/star-quilt-designs/4-140.png" />
 	  <img src="pictures/star-quilt-designs/5-140.png" />
 	  <img src="pictures/star-quilt-designs/6-140.png" />
+	</div>
+	
+	<div class="centered">
+	  <div class="fb-like" data-send="true" data-width="425" data-show-faces="true" data-colorscheme="dark"></div>
 	</div>
 
   <h3 class="subheading">Related links</h3>

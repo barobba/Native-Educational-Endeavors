@@ -16,6 +16,8 @@
   <p>Here is the link:
   <br /><a target="_blank" href="http://www.giveblackhills.org/27627">http://www.giveblackhills.org/27627</a></p>
 
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+
 	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 	
 	

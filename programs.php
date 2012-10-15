@@ -10,6 +10,7 @@
 
 	<h2 id="page-title">Projects &amp; Programs</h2>
 
+	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 
 	<h3>Services</h3>
 	

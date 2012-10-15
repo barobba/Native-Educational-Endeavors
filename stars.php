@@ -2,13 +2,10 @@
 <?php require_once 'template/page-top.php' ?>
 
   <div class="centered">
-  
-  	<h2 id="page-title">Shining, Rising and Setting Stars</h2>
-  	
-  	<p>&nbsp;</p>
-  	<h3>Rising Stars</h3>
-  
-    	  <p><a href="star-little.php">Tierra Little</a></p>
+
+  	<h2 id="page-title">Rising, Shining and Setting Stars</h2>
+
+	  <p><a href="star-little.php">Tierra Little</a></p>
   
   	<p>&nbsp;</p>
   	<h3>Shining Stars</h3>
@@ -22,12 +19,14 @@
   	
   	<p>&nbsp;</p>
   	<p>
-  	INVITATION:
-  	<br />Do you have a recommendation on a Rising, Shining or Setting Star?
-  	<br />Please send your ideas, comments and suggestions to us at:
-  	<br /><a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>.
+    	INVITATION:
+    	<br />Do you have a recommendation on a Rising, Shining or Setting Star?
+    	<br />Please send your ideas, comments and suggestions to us at:
+    	<br /><a href="mailto:native.ed.e@gmail.com">native.ed.e@gmail.com</a>.
     </p>
-  
+    
+		<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>    
+    
   </div>
 	
 <?php require_once 'template/page-bottom.php' ?>

@@ -10,7 +10,9 @@
     <br />Telephone: (605) 580-0941
     <br />Email: <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a>
   </p>
+  
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>  
 
-	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
+  <img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 
 <?php require_once 'template/page-bottom.php' ?>

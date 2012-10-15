@@ -1,4 +1,10 @@
-<?php $page['title'] = 'Dr. Urla Marcus' ?>
+<?php 
+  $page['title'] = 'Dr. Urla Marcus';
+
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/profiles/profile-marcus.png';
+  
+?>
 <?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Dr. Urla Marcus</h2>
@@ -7,7 +13,7 @@
   
   <p>&nbsp;</p>
   
-	<div class="fb-like" data-href="<?php echo $page_url ?>" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
   
   <p>
     Dr. Urla Marcus, Director, BHSU Center for American Indian Studies

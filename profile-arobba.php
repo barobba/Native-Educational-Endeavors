@@ -1,4 +1,11 @@
-<?php $page['title'] = 'Dr. John Henry Glover' ?>
+<?php 
+
+  $page['title'] = 'Dr. John Henry Glover';
+  
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/profiles/profile-arobba.jpg';
+
+?>
 <?php require_once 'template/page-top.php' ?>
 
   <style>
@@ -26,6 +33,8 @@
     </p>
     
   </div>
+  
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
   
   <div class="biography">
   </div>

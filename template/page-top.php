@@ -2,15 +2,15 @@
 
   require_once 'php/_init.php';
 
-  $page_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-  $page_title = (isset($page['title']) ? $page['title'] : '').'| Native Educational Endeavors';
+  $page_title = (isset($page['title']) ? $page['title'] : '').' | Native Educational Endeavors';
   
   $sys['page']['fb']['og']['fb:app_id'] = '219706154819433';
   $sys['page']['fb']['og']['fb:admins'] = '828465192';
   $sys['page']['fb']['og']['og:type'] = 'website';
   $sys['page']['fb']['og']['og:url'] = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'];
   $sys['page']['fb']['og']['og:title'] = $page_title;
-  
+  $sys['page']['fb']['og']['og:image'] = $base_url.'/pictures/mortar-board-with-feather.png';
+    
   if (isset($page['fb']['og'])) {
     $page['fb']['og'] = array_merge($sys['page']['fb']['og'], $page['fb']['og']);
   }

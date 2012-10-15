@@ -1,4 +1,12 @@
-<?php $page['title'] = 'Tiarra Little' ?>
+<?php 
+
+  $page['title'] = 'Tiarra Little';
+  
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/profiles/tierra-little.jpg';
+
+
+?>
 <?php require_once 'template/page-top.php' ?>
 
 	<h2 id="page-title">Tiarra Little</h2>
@@ -7,7 +15,7 @@
 	<img class="profile" src="pictures/profiles/tierra-little.jpg" />
 
   <p>&nbsp;</p>
-	<div class="fb-like" data-href="<?php echo $page_url ?>" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 	
   <p>Tiarra Little recently received a very special accolade at the state level.</p>
   <p>The 2012 graduate was given an Inspirational Leadership Award at the South Dakota High School Athletic Association’s Elite 15 banquet last week. This is the first occasion that such an award has ever been given by the organization, and it may be the only time.</p>

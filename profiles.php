@@ -9,7 +9,9 @@
 	  <li><a href="profile-board.php">Board of Directors</a></li>
 	  <li><a href="profile-lecturers.php">Speakers &amp; Consultants Bureau</a></li>
 	</ul>
-	
+
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+  	
 	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 	
 	

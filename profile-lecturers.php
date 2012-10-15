@@ -3,6 +3,8 @@
 
   <h2 id="page-title">Speakers &amp; Consultants Bureau</h2>
   
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+  
   <p style="text-align: center"><a href="profile-board.php">NEE Board Members are also available 
   <br />in this capacity under our IRS status.</a></p>
   

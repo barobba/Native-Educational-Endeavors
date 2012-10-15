@@ -24,7 +24,7 @@
 	  <br />respect
 	</div>
 	
-	<div class="fb-like" data-send="false" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
+	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
 	
 	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 

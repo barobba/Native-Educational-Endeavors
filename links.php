@@ -12,6 +12,8 @@
 	  <li><a target="_blank" href="http://www.sdtribalrelations.com/">South Dakota Department of Tribal Relations</a></li>
 	</ul>
 
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+
 	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 	
 <?php require_once 'template/page-bottom.php' ?>

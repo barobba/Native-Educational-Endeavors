@@ -3,7 +3,7 @@
   <li><a href="index.php">Home</a></li>
   <li><a href="event-20120806-rally.php">Rally 2012</a></li>
   <li><a href="web-services.php">Website Development</a></li>
-  <li><a href="stars.php">Shining, Rising, and Setting Stars</a></li>
+  <li><a href="stars.php">Rising, Shining and Setting Stars</a></li>
   <li><a href="profile-lecturers.php">Speakers &amp; Consultants Bureau</a></li>
   <li><a href="programs.php">More Projects &amp; Programs</a></li>
   

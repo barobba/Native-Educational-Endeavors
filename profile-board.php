@@ -1,7 +1,13 @@
 <?php $page['title'] = 'Board of Directors' ?>
 <?php require_once 'template/page-top.php' ?>
 
+  <style>
+    .fb-like {padding-bottom: 1em;}
+  </style>
+
 	<h2 id="page-title">Board of Directors</h2>
+
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 
   <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
   

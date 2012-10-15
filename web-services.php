@@ -1,7 +1,15 @@
-<?php $page['title'] = 'About' ?>
+<?php 
+
+  $page['title'] = 'Website Development Services';
+   
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/web-portfolio/nee.png';
+  
+?>
 <?php require_once 'template/page-top.php' ?>
 
   <style>
+    table.grid {padding-bottom: 1em;}
 	  .thumb{display: block; width: 120px; height: 120px; border: 2px solid #343434;}
     a.thumb:hover {z-index: 1; display: block; border: 2px solid white;}
 	  
@@ -77,6 +85,8 @@
       </td>
     </tr>
   </table>
+  
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 
   <h3>Using Google Sites:</h3>  
 
