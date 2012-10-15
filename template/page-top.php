@@ -8,7 +8,7 @@
   $sys['page']['fb']['og']['fb:app_id'] = '219706154819433';
   $sys['page']['fb']['og']['fb:admins'] = '828465192';
   $sys['page']['fb']['og']['og:type'] = 'website';
-  $sys['page']['fb']['og']['og:url'] = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'].(!empty($_SERVER['QUERY_STRING'])? '?'.$_SERVER['QUERY_STRING'] : '');
+  $sys['page']['fb']['og']['og:url'] = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'];
   $sys['page']['fb']['og']['og:title'] = $page_title;
   
   if (isset($page['fb']['og'])) {
