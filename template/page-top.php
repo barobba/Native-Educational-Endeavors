@@ -1,9 +1,23 @@
 <?php 
 
-  $page_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-  $page_title = isset($page['title']) ? $page['title'] . ' | ' : '';
-  $page['fb']['og']['fb:app_id'] = '219706154819433';
+  require_once 'php/_init.php';
 
+  $page_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+  $page_title = (isset($page['title']) ? $page['title'] : '').'| Native Educational Endeavors';
+  
+  $sys['page']['fb']['og']['fb:app_id'] = '219706154819433';
+  $sys['page']['fb']['og']['fb:admins'] = '828465192';
+  $sys['page']['fb']['og']['og:type'] = 'website';
+  $sys['page']['fb']['og']['og:url'] = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'].(!empty($_SERVER['QUERY_STRING'])? '?'.$_SERVER['QUERY_STRING'] : '');
+  $sys['page']['fb']['og']['og:title'] = $page_title;
+  
+  if (isset($page['fb']['og'])) {
+    $page['fb']['og'] = array_merge($sys['page']['fb']['og'], $page['fb']['og']);
+  }
+  else {
+    $page['fb']['og'] = $sys['page']['fb']['og'];
+  }
+  
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html
