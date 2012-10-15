@@ -1,7 +1,7 @@
 <?php
   require_once 'php/_init.php';
   $page['title'] = 'Home';
-  $page['og_image'] = $base_url.'/pictures/splash/_splash.png';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/splash/_splash.png';
 ?>
 <?php require_once 'template/page-top.php' ?>
 

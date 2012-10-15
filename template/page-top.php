@@ -5,11 +5,17 @@
 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+>
 	<head>
 	
-	  <?php if (array_key_exists('og_image', $page)): ?>
-      <meta property="og:image" content="<?php echo $page['og_image'] ?>"/> 
+	  <?php if (isset($page['fb']['og'])): ?>
+	    <?php foreach ($page['fb']['og'] as $og_property => $og_content): ?>
+      	<meta property="<?php echo $og_property ?>" content="<?php echo $og_content ?>"/> 
+      <?php endforeach; ?>
 	  <?php endif; ?>
 	
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
