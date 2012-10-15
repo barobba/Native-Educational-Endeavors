@@ -1,6 +1,6 @@
 <?php 
 
-  $page['title'] = 'Shining, Rising, and Setting Stars';
+  $page['title'] = 'Star Quilt Network';
   
   require_once 'php/_init.php';
   $page['fb']['og']['og:image'] = $base_url.'/pictures/star-quilt-designs/2-140.png';
