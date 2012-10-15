@@ -1,7 +1,10 @@
 <?php
+
+  $page['title'] = 'Providing educational opportunities for American Indians and fostering cross-cultural respect';
+  
   require_once 'php/_init.php';
-  $page['title'] = 'Home';
   $page['fb']['og']['og:image'] = $base_url.'/pictures/splash/_splash.png';
+  
 ?>
 <?php require_once 'template/page-top.php' ?>
 
