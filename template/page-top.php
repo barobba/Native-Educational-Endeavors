@@ -2,6 +2,7 @@
 
   $page_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
   $page_title = isset($page['title']) ? $page['title'] . ' | ' : '';
+  $page['fb']['og']['fb:app_id'] = '219706154819433';
 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
