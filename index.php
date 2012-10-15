@@ -1,4 +1,16 @@
-<?php $page['title'] = 'Home' ?>
+<?php
+
+  $base_path = explode('/', $_SERVER['SCRIPT_NAME']);
+  array_pop($base_path);
+  array_shift($base_path);
+  $base_path = implode('/', $base_path);
+  
+  $base_url = $_SERVER['HTTP_HOST'].'/'.$base_path;
+  
+  $page['title'] = 'Home';
+  $page['og_image'] = 'http://'.$base_url.'/pictures/splash/_splash.png';
+  
+?>
 <?php require_once 'template/page-top.php' ?>
 
   <style>
