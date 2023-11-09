@@ -35,7 +35,7 @@
 	
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title><?php echo $page_title ?>Native Educational Endeavors, Inc.</title>
-		<link rel="stylesheet" type="text/css" href="javascript/jquery.ui/css/sunny/jquery-ui-1.8.21.custom.css" />
+                <link rel="stylesheet" type="text/css" href="javascript/jquery.ui/css/sunny/jquery-ui-1.8.21.custom.css" />
 		<link rel="stylesheet" type="text/css" href="stylesheets/page.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/border.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/layout-table.css" />
@@ -70,9 +70,8 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     
-    </script>    
-    
-	
+    </script>    	    
+
 	</head>
 	<body>
 	

@@ -20,7 +20,7 @@
     }
   </style>
 
-  <img class="profile-picture" src="pictures/profiles/profile-glover2.png" />
+  <img class="profile-picture" src="JohnGloverImage.jpeg" />
   
   <div>
   

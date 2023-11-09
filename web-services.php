@@ -1,6 +1,6 @@
 <?php 
 
-  $page['title'] = 'Website Development Services';
+  $page['title'] = 'Development & Media Services';
    
   require_once 'php/_init.php';
   $page['fb']['og']['og:image'] = $base_url.'/pictures/web-portfolio/nee.png';
@@ -15,7 +15,13 @@
 	  
   </style>
   
-  <h2 id="page-title">Website Development</h2>
+  <h2 id="page-title">Development & Media Services</h2>
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Flyer on Scribd" href="http://www.scribd.com/doc/236930942/Flyer"  style="text-decoration: underline;" >Flyer</a> by <a title="View NativeEd's profile on Scribd" href="http://www.scribd.com/NativeEd"  style="text-decoration: underline;" >NativeEd</a></p><iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/236930942/content?start_page=1&view_mode=scroll&access_key=key-Zp8uSLOVwdB1MBWg5lD4&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_51572" width="600" height="800" frameborder="0"></iframe></script>
+
+<p>
+    Online Media Development Associates
+  </p>
+  <IMG SRC="Prairey&AnnieBio.png" ALT="Bios" WIDTH=600 HEIGHT=316>
   
   <p>
     If your project needs a website, please feel free to contact <a href="profile-glover.php">Dr. John Glover</a>.

@@ -1,38 +1,22 @@
 <?php
-
-$messages = '';
-
-// Click here to update the website
-if (array_key_exists('github-pull', $_REQUEST)) {
-  $messages .= "Operation not yet implemented\n";
-}
-
-
+  
+  require_once 'php/_init.php';
+  $page['fb']['og']['og:image'] = $base_url.'/pictures/splash/NEE Graphic.jpg';
+  
 ?>
+<?php require_once 'template/page-top.php' ?>
 
-<style>
-  body {text-align: center;}
-  #page-wrapper {width: 900px; margin: 0px auto; text-align: left;}
-  #messages {background-color: #dddddd; padding: 2em;}
-</style>
+  <style>
+    .content {position: relative; background-image: url(pictures/splash/_splash.png); background-repeat: no-repeat;}
+    #splash {position: absolute; top: 0px; left: 0px; z-index: 1; }
+    #splash-message {position: absolute; top: 60px; left: 0px; width: 100%; z-index: 2; text-align: center; font-size: 47px; font-style: italic; line-height: 1.12em;}
+    .fb-like {position: absolute; top: 363px;}
+    #mortar-board {position: absolute; top: 400px;}
+  </style>
 
-<div id="page-wrapper">
 
-  <h1>NEE Website Admin</h1>
-  
-  <h2>Options:</h2>
-  
-  <form action="update-website.php">
-    <div class="field">
-      <div class="label">Pull repository:</div>
-      <input class="widget" type="Submit" name="github-pull" value="Pull repository" />
-      <div class="description">Pull the content from the shared GIT Hub repository.</div>
-    </div>
-  </form>
-  
-  <?php if (!empty($messages)): ?>
-    <h2>Report:</h2>
-    <div id="messages"><?php echo $messages ?></div>
-  <?php endif; ?>
+<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
+	
+	<img id="mortar-board" src="pictures/mortar-board-with-feather.png" />
 
-</div>
+<?php require_once 'template/page-bottom.php' ?>
