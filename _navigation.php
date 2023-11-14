@@ -20,7 +20,7 @@
   <li><a href="about.php">About NEE</a></li>
   <li class="nav-level-2"><a href="profiles.php">Our People &amp; Supporters</a></li>
   <li class="nav-level-2"><a href="blog.php">Blogs</a></li>
-  <li class="nav-level-2"><a href="support.php">Supporting Us</a></li>
+  <li class="nav-level-2"><a href="contact-us.php">Supporting Us</a></li>
   <li class="nav-level-2"><a href="contact-us.php">Contact Us</a></li>
   <li class="nav-level-2"><a href="links.php">Links</a></li>
 </ul>

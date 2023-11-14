@@ -13,12 +13,15 @@ $page['fb']['og']['og:image'] = $base_url . '/pictures/profiles/web_john-glover.
     font-size: 1.4em;
     font-weight: bold;
   }
+  img.profile {
+    width: 200px;
+  }
 </style>
 
 <h2 id="page-title">About NEE</h2>
 
 <div class="special-attention" style="text-align: center">
-  <img class="profile" src="pictures/profiles/web_john-glover.jpg" />
+  <img class="profile" src="pictures/profiles/john-glover-totem-headshot.jpg" />
   <audio controls="controls">
     <source src="attachments/NEE_Mission.mp3" type="audio/mp3" />
   </audio>
@@ -38,9 +41,9 @@ $page['fb']['og']['og:image'] = $base_url . '/pictures/profiles/web_john-glover.
 
 <p>Native Educational Endeavors is keenly interested in all aspects of education involving American Indians from pre-natal to elders. Addressing these needs is our first goal. In our short history, our projects have included continuing education for K-12 teachers, college and graduate coursework focused on Indian lands, paid student internships, diversity experiences for high school students and native language training for educators. We will continue similar activities while seeking to expand into other areas involving education for, or about, native peoples.</p>
 
-<p><span class="main-line">�Ignorance is the parent of fear.�</span> Quote from Moby Dick (or The Whale) by Herman Melville (1851).</p>
+<p><span class="main-line">&ldquo;Ignorance is the parent of fear.&rdquo;</span> Quote from Moby Dick (or The Whale) by Herman Melville (1851).</p>
 
-<p>The second goal of our mission is to foster cross-cultural respect. We believe that necessary, productive and meaningful relationships between differing individuals and communities are best achieved through information, education and interaction. This process needs to begin with awareness and tolerance, but should continue further with greater effort towards the creation of respectful, meaningful, productive and lasting relationships. Our work with a high school diversity club in a predominately �white� community is a small scale example. A larger example would be our development and offerings of a college course in American Indian lands at three Tribal colleges, three State universities, a private school in South Dakota, and as a part of a graduate school experience at the University of Arizona. Our efforts have just begun and we welcome all such opportunities, whether big or small.</p>
+<p>The second goal of our mission is to foster cross-cultural respect. We believe that necessary, productive and meaningful relationships between differing individuals and communities are best achieved through information, education and interaction. This process needs to begin with awareness and tolerance, but should continue further with greater effort towards the creation of respectful, meaningful, productive and lasting relationships. Our work with a high school diversity club in a predominately &ldquo;white&rdquo; community is a small scale example. A larger example would be our development and offerings of a college course in American Indian lands at three Tribal colleges, three State universities, a private school in South Dakota, and as a part of a graduate school experience at the University of Arizona. Our efforts have just begun and we welcome all such opportunities, whether big or small.</p>
 
 <p>If you have questions, comments or suggestions, please contact us at <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a> or at our
   blog site: <a href="http://nativeed.wordpress.com">nativeed.wordpress.com</a>.</p>

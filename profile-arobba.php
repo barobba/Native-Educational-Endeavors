@@ -9,11 +9,16 @@
 <?php require_once 'template/page-top.php' ?>
 
   <style>
+
+    img.profile-picture {
+      width: 33%;
+    }
+    
   </style>
 
   <div>
   
-    <img class="profile-picture" src="pictures/profiles/profile-arobba.jpg" />
+    <img class="profile-picture" src="pictures/profiles/profile-arobba-2.png" />
   
     <p>
       Biagio Arobba
@@ -27,9 +32,9 @@
     </p>
     
     <p>
-      (605) 209-4300 (direct cell)
+      (402) 401-0458 (direct cell)
       <br />E-mail address: <a href="mailto:barobba@gmail.com">barobba@gmail.com</a>
-      <br />Website: <a href="http://www.biagio.arobba.com">www.biagio.arobba.com</a>
+      <br />Website: <a href="http://biagio.arobba.com">biagio.arobba.com</a>
     </p>
     
   </div>

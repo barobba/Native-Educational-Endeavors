@@ -4,11 +4,11 @@
 	<h2 id="page-title">Contact Us</h2>
 
   <p style="font-size: 1.4em;" class="centered">
-    Native Educational Endeavors, Inc.
-    <br />PO Box 646, 2520 Hamster Hill Place
-    <br />Spearfish, South Dakota 57783-0646
-    <br />Telephone: (605) 580-0941
+    Native Educational Endeavors, INC
+    <br />PO Box 67, Bellingham, WA 98227
+    <br />Telephone: (360) 483-7045
     <br />Email: <a href="mailto:Native.Ed.E@gmail.com">Native.Ed.E@gmail.com</a>
+    <br /><a href="http://www.facebook.com/pages/Native-Educational-Endeavors/111501438903">Facebook Page</a>
   </p>
   
   <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>  
