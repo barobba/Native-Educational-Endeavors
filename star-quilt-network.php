@@ -26,11 +26,6 @@
 	  <div class="fb-like" data-send="true" data-width="425" data-show-faces="true" data-colorscheme="dark"></div>
 	</div>
 
-  <h3 class="subheading">Related links</h3>
-  <div class="centered">
-    <div><a target="_blank" href="http://star-quilts.biagio.arobba.com">Star Quilt Wiki - Design your own star quilt</a></div>
-  </div>
-
   <div class="narrative">
     <h3 class="subheading">About star quilts</h3>
     <p>There are a lot of stories about the origins and significance of star quilts. Star quilts have a rich history, a modern history, and they are an important symbol of survival and expression. Star quilts replaced buffalo robes out of necessity and creativity. Homemade star quilts were a supplement to army blanket rations. The army blankets were even used as materials for making star quilts. In harsh winter climates, and before central heating and housing developments, lots of blankets were a good thing to have.</p>
@@ -42,11 +37,11 @@
   	<p>Written and reprinted with permission from Biagio Arobba, 2012.</p>
   </div>  	
 
-  <h3 class="subheading">Coming soon</h3>
+  <!-- <h3 class="subheading">Coming soon</h3>
   <div class="centered">
     <div>"Star Quilt Design Competition"</div>
     <div>"Star Quilts: A History of Cross Cultural Appreciation"</div>
-  </div>
+  </div> -->
   
 	
 <?php require_once 'template/page-bottom.php' ?>
