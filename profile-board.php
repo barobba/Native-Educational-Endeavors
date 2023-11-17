@@ -21,76 +21,61 @@
 
   <div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 
-  <!-- <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/MATO 2.jpg" />
   <p class="board-description">
-  Mato Standing High, esq., President 
-  <br />(Tribal Affiliation: Enrolled Rosebud Sioux Tribe)
-  <br />Attorney General, Sicangu Lakota Oyate, Rosebud Sioux Tribe
-  <br />Mission, South Dakota
-  <br /><a href="http://www.rosebudsiouxtribe-nsn.gov">www.rosebudsiouxtribe-nsn.gov</a>
-  </p> -->
+    Mato Standing High, esq., JD, President
+    <br />(Rosebud Sioux Tribal Member)
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/TraceyFischer.png" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/TraceyFischer.png" />
   <p class="board-description">
-  Tracey Fischer-Zephier, Vice President
-  <br />(Tribal Affiliation: Enrolled Cheyenne River Sioux Tribe)
-  <br />Partner, Frederick, Peebles &amp; Morgan, LLP
-  <br />Rapid City, South Dakota
-  <br /><a href="http://www.ndnlaw.com/attorneypop/attorney.php?id=14">www.ndnlaw.com/attorneypop/attorney.php?id=14</a>
-  <br /><a href="http://www.ndnlaw.com">www.ndnlaw.com</a>
-  </p> -->
+    Tracey Fischer-Zephier, Vice President
+    <br />(Cheyenne River Sioux Tribal Member)
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/NEE_Lorraine_Talks2.jpg" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/NEE_Lorraine_Talks2.jpg" />
   <p class="board-description">
-  Lorraine Talks, Secretary/Treasurer
-  <br />(Tribal Affiliation: Enrolled Standing Rock Sioux Tribe)
-  <br />Purchasing Manager
-  <br />Black Hills State University
-  <br />Spearfish, South Dakota
-  <br /><a href="http://www.bhsu.edu">www.bhsu.edu</a>
-  </p> -->
+    Lorraine Talks, Secretary/Treasurer
+    <br />(Standing Rock Sioux Tribal Member)
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/john-glover-sm.png" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/john-glover-sm.png" />
   <p class="board-description">
-  John Glover, Executive Director
-  <br />(Tribal Affiliation: Salish)
-  <br />Professor, College of Liberal Arts
-  <br />Black Hills State University
-  <br />Spearfish, South Dakota
-  <br /><a href="http://www.bhsu.edu">www.bhsu.edu</a>
-  </p> -->
+    John Glover, Executive Director
+    <br />(Salish of the Flathead Reservation Affiliation)
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/frankpommersheim1.png" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/frankpommersheim1.png" />
   <p class="board-description">
-  Frank Pommersheim
-  <br />Professor, University of South Dakota School of Law
-  <br />Vermillion, South Dakota
-  <br /><a href="http://www.usd.edu/law/pommersheim.cfm">http://www.usd.edu/law/pommersheim.cfm</a>
-  <br /><a href="http://www.usd.edu/law">www.usd.edu/law</a>
-  </p> -->
+    Frank Pommersheim
+    <br />USD Indian Law Professor Emeritus
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/rainmarshall1.png" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/rainmarshall1.png" />
   <p class="board-description">
-  Rain Archambeau-Marshall,
-  <br />(Tribal Affiliation: Enrolled Yankton)
-  <br />Instructor, Native American Studies
-  <br />College of the Redwoods
-  <br />Arcata, California
-  </p> -->
+    Rain Archambeau-Marshall,
+    <br />(Yankton Sioux Tribal Member)
+  </p>
   
-  <!-- <img class="board-profile" src="pictures/profiles/danidaughtery.jpg" />
+  <div class="clearfix"></div>
+  <img class="board-profile" src="pictures/profiles/danidaughtery.jpg" />
   <p class="board-description">
-  Dani Daugherty, esq.
-  <br />(Tribal Affiliations: Oglala Lakota/Oneida Enrolled Oglala Sioux Tribe)
-  <br />Bureau of Indian Affairs
-  <br />Aberdeen, South Dakota
-  <br /><a href="http://www.lastrealindians.com/dani-daugherty/dani/">www.lastrealindians.com/dani-daugherty/dani/</a>
-  </p> -->
+    Dani Daugherty, esq.
+    <br />(Oglala Sioux Tribal Member)
+  </p>
 
+  <div class="clearfix"></div>
   <img class="board-profile" src="pictures/profiles/_you.png" />
-    <p class="board-description">
-    Vacant seat
-    <br />Please contact Dr. John Glover at (360) 483-7045 to see about joining our Board of Directors.
+  <p class="board-description">
+    <strong>Vacant seat</strong>
+    <br />Please contact Dr. John Glover at (360) 483-7045 
+    <br />to see about joining our Board of Directors.
   </p>
   
   <div class="clearfix"></div>

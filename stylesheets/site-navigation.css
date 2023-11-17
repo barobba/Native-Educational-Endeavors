@@ -13,4 +13,12 @@ ul#site-navigation li.nav-section-break {
   border-left: 4px solid #222222;
   height: 4px;
 }
-ul#site-navigation li.nav-level-2 {}
+ul#site-navigation li.nav-header {
+	color: rgba(255, 255, 255, 0.6);
+	/* font-weight: normal; */
+	/* font-size: 1.2rem; */
+}
+ul#site-navigation li.nav-level-2 {
+}
+ul#site-navigation li.nav-level-2 a {
+}

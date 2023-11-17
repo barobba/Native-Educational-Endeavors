@@ -9,14 +9,21 @@
 <?php require_once 'template/page-top.php' ?>
 
   <style>
-    .content {position: relative; background-image: url(pictures/splash/NEE-Graphic.png); background-repeat: no-repeat;}
-    #splash {position: absolute; top: 0px; left: 0px; z-index: 1; }
-    .fb-like {position: absolute; top:150px;}
-    #mortar-board {position: absolute; top: 400px;}
+    .content {
+      width: 504px;
+      margin: 0 auto;
+    }
+    .fb-like {
+      margin-top: 2rem; 
+      margin-bottom: 1rem;
+    }
   </style>
+	
+  <div class="content">
+  
+    <img src="pictures/splash/NEE-Graphic.png" />
+  	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
 
-	
-	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
-	
+  </div>
 
 <?php require_once 'template/page-bottom.php' ?>
