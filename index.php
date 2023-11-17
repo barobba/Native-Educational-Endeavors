@@ -9,7 +9,7 @@
 <?php require_once 'template/page-top.php' ?>
 
   <style>
-    .content {
+    .splash {
       width: 504px;
       margin: 0 auto;
     }
@@ -19,7 +19,7 @@
     }
   </style>
 	
-  <div class="content">
+  <div class="splash">
   
     <img src="pictures/splash/NEE-Graphic.png" />
   	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>	
